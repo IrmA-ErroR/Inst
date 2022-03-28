@@ -1,6 +1,6 @@
 # Подключение WireGuard VPN из Windows
 
-[WireGuard](https://www.wireguard.com)  - быстрый и совремменный VPN. 
+[WireGuard](https://www.wireguard.com)  - быстрый и современный VPN. 
 * Удобство эксплуатации
 * Высокая производительность
 * Безопасность
